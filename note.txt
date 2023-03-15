@@ -1,0 +1,5 @@
+font
+font-family: 'Playfair Display', serif;
+
+font-family: 'Ubuntu', sans-serif;626262
+color:#626262;
